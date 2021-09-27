@@ -15,9 +15,6 @@
         <Replace name="" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\gs\GitHub\mbfiorini\geniality-rf\gs\rfp\inc\esrf069.i" />
-        <File filename="C:\gs\GitHub\mbfiorini\geniality-rf\gs\rfp\inc\esrf038.i" />
-        <File filename="C:\gs\GitHub\mbfiorini\geniality-rf\gs\rfp\inc\esrf070.i" />
         <File filename="C:\Users\cayen\Downloads\GS_584020_ESRF014_210915125539_rpwrfsefaz.log" />
         <File filename="C:\gs\GitHub\mbfiorini\geniality-rf\.git\config" />
         <File filename="C:\Users\cayen\AppData\Roaming\Notepad++\shortcuts.xml" />
@@ -25,6 +22,9 @@
         <File filename="C:\Users\matheus.fiorini\Documents\GitHub\editorconfigfiles\npp\3P\_ProgressEnvironnement.xml" />
         <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs\api\rf\esrfapi001.p" />
         <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-at\gs\atp\inc\esat001.i" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\editorconfigfiles\npp\shortcuts.xml" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\editorconfigfiles\npp\config.xml" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\editorconfigfiles\npp\README.md" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -34,7 +34,7 @@
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">small</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
-        <GUIConfig name="TabBar" dragAndDrop="no" drawTopBar="yes" drawInactiveTab="yes" reduce="yes" closeButton="yes" doubleClick2Close="no" vertical="no" multiLine="no" hide="no" quitOnEmpty="no" iconSetNumber="1" />
+        <GUIConfig name="TabBar" dragAndDrop="no" drawTopBar="yes" drawInactiveTab="yes" reduce="yes" closeButton="yes" doubleClick2Close="no" vertical="no" multiLine="no" hide="no" quitOnEmpty="no" iconSetNumber="0" />
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
@@ -68,7 +68,7 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="yes" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="C:\Users\matheus.fiorini\Documents\GitHub\editorconfigfiles\npp\stylers.xml" />
+        <GUIConfig name="stylerTheme" path="C:\Program Files (x86)\Notepad++\themes\DarkModeDefault.xml" />
         <GUIConfig name="wordCharList" useDefault="no" charsAdded="-" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="multiInst" setting="0" />
@@ -78,7 +78,7 @@
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="0" customColorDarkText="12632256" customColorDisabledText="8421504" customColorEdge="6579300" />
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="hide" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" rightClickKeepsSelection="yes" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="2" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="hide" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" rightClickKeepsSelection="yes" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="3" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
         <GUIConfig name="DockingManager" leftWidth="214" rightWidth="196" topHeight="200" bottomHeight="215">
             <PluginDlg pluginName="3P" id="2" curr="0" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="3P" id="1" curr="1" prev="-1" isVisible="yes" />
