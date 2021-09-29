@@ -1,0 +1,80 @@
+#***************************************************************************
+# Copyright DATASUL S.A. (2010)
+# All rights reserved.
+#
+# Arquivo...............: scripts-8180/datasul.pf
+# Descricao.............: Parametros de conexao Cliente/Servidor
+# Criado por............: Instalador TOTVS Datasul - GAPE
+# Data de criacao.......: 10-31-2019 16:08:01
+#***************************************************************************
+
+#-mmax 48000
+#-s 200
+#-TB 24
+#-TM 24
+#-d dmy
+#-Bt 2048
+#-Mm 4096
+#-cpstream ibm850
+#-cpterm iso8859-1
+#-q
+#-inp 32000
+#-numsep 46
+#-numdec 44
+#-T C:\Users\MATHEU~1.FIO\AppData\Local\Temp\11
+
+#-debugalert
+#-clientlog c:\temp\clientlog-8180.txt
+#-logginglevel 4 
+#-logentrytypes DB.Connects,4GLTrace:4,4GLMessages
+#-y
+#-yc
+#-yx
+
+-h 50
+
+-db eai -ld eai -S 24621 -H 192.168.0.171 -N tcp
+
+-db eai2 -ld eai2 -S 24623 -H 192.168.0.171 -N tcp
+
+-db ems2adt -ld mgadt -S 24600 -H 192.168.0.171 -N tcp
+
+-db ems2cad -ld mgcad -S 24611 -H 192.168.0.171 -N tcp
+
+-db ems2mov -ld mgmov -S 24601 -H 192.168.0.171 -N tcp
+
+-db ems2mp -ld mgmp -S 24602 -H 192.168.0.171 -N tcp
+
+-db ems2sor -ld mgsor -S 24609 -H 192.168.0.171 -N tcp
+
+-db neogrid -ld neogrid -S 24603 -H 192.168.0.171 -N tcp
+
+-db emsinc -ld emsinc -S 24604 -H 192.168.0.171 -N tcp
+
+-db cad2loc -ld cad2loc -S 24635 -H 192.168.0.171 -N tcp
+
+-db mov2loc -ld mov2loc -S 24637 -H 192.168.0.171 -N tcp
+
+-db ems5cad -ld emscad -S 24605 -H 192.168.0.171 -N tcp
+
+-db ems5mov -ld emsmov -S 24606 -H 192.168.0.171 -N tcp
+
+-db cad5loc -ld cad5loc -S 24639 -H 192.168.0.171 -N tcp
+
+-db mov5loc -ld mov5loc -S 24641 -H 192.168.0.171 -N tcp
+
+-db hcm -ld hcm -S 24607 -H 192.168.0.171 -N tcp
+
+-db payroll2 -ld payroll2 -S 24615 -H 192.168.0.171 -N tcp
+
+-db totvsgen -ld totvsgen -S 24633 -H 192.168.0.171 -N tcp
+
+-db srcadger -ld srcadger -S 24631 -H 192.168.0.171 -N tcp
+
+-db srmovfin -ld srmovfin -S 24608 -H 192.168.0.171 -N tcp
+
+-db emsfnd -ld emsfnd -S 24619 -H 192.168.0.171 -N tcp
+
+-db mdtcrm -ld mdtcrm -S 24629 -H 192.168.0.171 -N tcp
+
+-db mgesp -ld mgesp -S 24643  -H 192.168.0.171 -N tcp
