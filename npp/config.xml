@@ -1,32 +1,52 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="no" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="yes" regexBackward4PowerUser="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no">
-        <Filter name="" />
-        <Find name="&#x00C7;" />
-        <Find name="pi-save-item" />
-        <Find name="prod_x" />
-        <Find name="prod_uTrib" />
-        <Find name="&#x251C;&#x00AE;" />
-        <Find name="&#x251C;&#x00FA;" />
-        <Find name="lcJson" />
-        <Find name="ttData" />
-        <Find name="ENABLED-DOCUMENT-FIELDS" />
-        <Find name="except-inf-det-lst" />
-        <Replace name="&#x00E9;" />
-        <Replace name="&#x00E3;" />
-        <Replace name="lcPayload" />
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="yes" regexBackward4PowerUser="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no">
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf" />
+        <Path name="C:\Totvs 12.1.26\DDK\" />
+        <Path name="C:\Totvs 12.1.26\DDK\12.1.23-SNAPSHOT" />
+        <Path name="C:\Totvs 12.1.26\DDK\12.1.23-SNAPSHOT\src\src" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-core" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-esp" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-nf" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp\gs\spp\scripts" />
+        <Filter name="*.p;*.w;*.i*;*.m*" />
+        <Filter name="*.p,*.w,*.i*,*.m*" />
+        <Filter name="*.df*" />
+        <Filter name="*.*" />
+        <Find name="rf-exec-31" />
+        <Find name="tp_schema" />
+        <Find name="registrar_evento" />
+        <Find name="cMun" />
+        <Find name="cte_cMunIni" />
+        <Find name="gabriel" />
+        <Find name="c_norma" />
+        <Find name="cod_mun_ibge" />
+        <Find name="c_normalized_cid" />
+        <Find name="cid_emitente_color" />
+        <Replace name="esat_param_origem" />
+        <Replace name="esat_config" />
+        <Replace name="tt_esat_param_consulta" />
+        <Replace name="esat_param_consulta" />
+        <Replace name="esrf_param_nfse_cid" />
+        <Replace name="tt_esrf_param_nfse_cid" />
+        <Replace name="b2_esrf_param_nfse_cid" />
+        <Replace name="2.08.00.011" />
+        <Replace name="2.08.00.008" />
+        <Replace name="wh-window" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Totvs 12.1.26\ems2\src\dizoom\z01di071.w" />
-        <File filename="C:\Users\matheus.fiorini\Downloads\tab-serv-inss.txt" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs\api\json\JsonHelper.cls" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf\gs\rfp\inc\esrf001.i" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs\api\services\IDocumentService.cls" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs\api\services\DocumentCallbacks.i" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs\api\rf\genericZoom.p" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs\api\inc\esgsapi001.i1" />
-        <File filename="C:\TEMP\items_UTF8.json" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\tests\protrace.15636" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf\gs\rfp\prg\esrf006.p" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf\gs\rfp\prg\esrf007.w" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs\api\rf\esrfapi001.p" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp\gs\spp\scripts\upd_param_nfse_cid_v8_0.p" />
+        <File filename="C:\TEMP\geniality\gs\prg\esgs003.w" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp\gs\spp\essp123 - Parar - Restaurar NSU.p" />
+        <File filename="C:\Tools\batch\release\cripto_release_key.bat" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf\gs\rfp\prg\esrf031rp.p" />
+        <File filename="C:\TEMP\totvs\teste.p" />
+        <File filename="C:\Users\matheus.fiorini\Documents\Github\geniality-core\gs\inc\esgs004.i" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -40,10 +60,10 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="46" y="4" width="1100" height="700" isMaximized="yes" />
-        <GUIConfig name="FindWindowPosition" left="919" top="266" right="1508" bottom="630" />
+        <GUIConfig name="AppPosition" x="131" y="-8" width="1100" height="700" isMaximized="yes" />
+        <GUIConfig name="FindWindowPosition" left="884" top="565" right="1473" bottom="929" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20211002">no</GUIConfig>
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20211118">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -71,21 +91,22 @@
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
         <GUIConfig name="stylerTheme" path="C:\Program Files (x86)\Notepad++\themes\DarkModeDefault.xml" />
+        <GUIConfig name="insertDateTime" customizedFormat="yyyy-MM-dd HH:mm:ss" reverseDefaultOrder="no" />
         <GUIConfig name="wordCharList" useDefault="no" charsAdded="-" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="multiInst" setting="0" />
-        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="0" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" saveDlgExtFilterToAllTypes="no" muteSounds="no" />
+        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="0" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" saveDlgExtFilterToAllTypes="no" muteSounds="no" />
         <GUIConfig name="Searching" monospacedFontFindDlg="no" stopFillingFindField="no" findDlgAlwaysVisible="no" confirmReplaceInAllOpenDocs="yes" replaceStopsWithoutFindingNext="no" />
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="0" customColorDarkText="16777215" customColorDisabledText="8421504" customColorEdge="6579300" />
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="hide" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" rightClickKeepsSelection="yes" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="5" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
-        <GUIConfig name="DockingManager" leftWidth="214" rightWidth="196" topHeight="200" bottomHeight="215">
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="hide" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" rightClickKeepsSelection="yes" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="2" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
+        <GUIConfig name="DockingManager" leftWidth="214" rightWidth="276" topHeight="200" bottomHeight="215">
             <PluginDlg pluginName="3P" id="2" curr="0" prev="-1" isVisible="yes" />
-            <PluginDlg pluginName="JSMinNPP.dll" id="0" curr="0" prev="-1" isVisible="no" />
             <PluginDlg pluginName="3P" id="1" curr="1" prev="-1" isVisible="yes" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="yes" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="JSMinNPP.dll" id="0" curr="0" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="0" />
             <ActiveTabs cont="1" activeTab="0" />
             <ActiveTabs cont="2" activeTab="-1" />
