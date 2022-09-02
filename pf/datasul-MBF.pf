@@ -78,3 +78,5 @@
 -db mdtcrm -ld mdtcrm -S 24629 -H 192.168.0.171 -N tcp
 
 -db mgesp -ld mgesp -S 24643  -H 192.168.0.171 -N tcp
+
+#-db C:\TEMP\Lucas\bancos\ged\dbged.db -ld dbged -1

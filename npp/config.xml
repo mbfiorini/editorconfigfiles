@@ -1,52 +1,57 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="yes" regexBackward4PowerUser="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="no" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" regexBackward4PowerUser="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no">
         <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf" />
-        <Path name="C:\Totvs 12.1.26\DDK\" />
-        <Path name="C:\Totvs 12.1.26\DDK\12.1.23-SNAPSHOT" />
-        <Path name="C:\Totvs 12.1.26\DDK\12.1.23-SNAPSHOT\src\src" />
-        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-core" />
-        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp" />
-        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-esp" />
         <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web" />
         <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-nf" />
-        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp\gs\spp\scripts" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-core" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-at" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf\gs" />
+        <Path name="C:\Users\matheus.fiorini\Documents\GitHub" />
+        <Path name="C:\Totvs 12.1.26\DDK\" />
+        <Filter name="*.p;*.w;*.i;*.m;*.cls" />
+        <Filter name="*.p;*.w;*.i*;*.m*;*.cls" />
+        <Filter name="*rp.p" />
         <Filter name="*.p;*.w;*.i*;*.m*" />
-        <Filter name="*.p,*.w,*.i*,*.m*" />
         <Filter name="*.df*" />
+        <Filter name="*.p,*.w,*.i*,*.m*" />
         <Filter name="*.*" />
-        <Find name="rf-exec-31" />
-        <Find name="tp_schema" />
-        <Find name="registrar_evento" />
-        <Find name="cMun" />
-        <Find name="cte_cMunIni" />
-        <Find name="gabriel" />
-        <Find name="c_norma" />
-        <Find name="cod_mun_ibge" />
-        <Find name="c_normalized_cid" />
-        <Find name="cid_emitente_color" />
-        <Replace name="esat_param_origem" />
-        <Replace name="esat_config" />
-        <Replace name="tt_esat_param_consulta" />
-        <Replace name="esat_param_consulta" />
-        <Replace name="esrf_param_nfse_cid" />
-        <Replace name="tt_esrf_param_nfse_cid" />
-        <Replace name="b2_esrf_param_nfse_cid" />
-        <Replace name="2.08.00.011" />
-        <Replace name="2.08.00.008" />
-        <Replace name="wh-window" />
+        <Find name="pi-mover-arquivo" />
+        <Find name="cidade" />
+        <Find name="usuar-estab" />
+        <Find name='Table &quot;param' />
+        <Find name='Table &quot;param-mov' />
+        <Find name='Table &quot;usuario' />
+        <Find name="usuario" />
+        <Find name="usuar-" />
+        <Find name="#\r\n" />
+        <Find name='table &quot;localiz' />
+        <Replace name="" />
+        <Replace name="esgs_funcao" />
+        <Replace name="doc-fiscal" />
+        <Replace name="&#x00E1;" />
+        <Replace name="\r" />
+        <Replace name="pi-sincronizar-can-inu" />
+        <Replace name="pi-sincroniza-can-inu" />
+        <Replace name="Today" />
+        <Replace name='If RF-TMS = &quot;Yes&quot; Then' />
+        <Replace name='If RF-GFE = &quot;Yes&quot; Then' />
+        <Replace name='If RF-GG = &quot;Yes&quot; Then' />
     </FindHistory>
+    <FileBrowser />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf\gs\rfp\prg\esrf006.p" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf\gs\rfp\prg\esrf007.w" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf-web\gs\api\rf\esrfapi001.p" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp\gs\spp\scripts\upd_param_nfse_cid_v8_0.p" />
-        <File filename="C:\TEMP\geniality\gs\prg\esgs003.w" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp\gs\spp\essp123 - Parar - Restaurar NSU.p" />
-        <File filename="C:\Tools\batch\release\cripto_release_key.bat" />
-        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-rf\gs\rfp\prg\esrf031rp.p" />
-        <File filename="C:\TEMP\totvs\teste.p" />
-        <File filename="C:\Users\matheus.fiorini\Documents\Github\geniality-core\gs\inc\esgs004.i" />
+        <File filename="C:\clientes\nita\prod\emscad.df" />
+        <File filename="C:\clientes\nita\prod\mgmulti.df" />
+        <File filename="C:\clientes\nita\prod\mgmono.df" />
+        <File filename="C:\clientes\nita\prod\template.ini" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp\bat\gerar_release.ps1" />
+        <File filename="C:\Users\matheus.fiorini\Documents\GitHub\geniality-spp\gs\qg\qg-copiar-includes.p" />
+        <File filename="C:\clientes\nita\prod\incrdump.e" />
+        <File filename="C:\clientes\nita\prod\dfs\mgesp_delta.df" />
+        <File filename="\\192.168.0.171\datasul\geniality\tst\wrk\rf\Erro\2022\08\31\GS-REL-MAIL-20220831004100.json" />
+        <File filename="\\192.168.0.171\datasul\geniality\tst\wrk\rf\Entrada\51220111455829000286570000006020851006020851-reproc.xml" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -60,10 +65,10 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="131" y="-8" width="1100" height="700" isMaximized="yes" />
-        <GUIConfig name="FindWindowPosition" left="884" top="565" right="1473" bottom="929" />
+        <GUIConfig name="AppPosition" x="471" y="51" width="1039" height="700" isMaximized="yes" />
+        <GUIConfig name="FindWindowPosition" left="825" top="612" right="1414" bottom="976" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20211118">no</GUIConfig>
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20220831">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -81,7 +86,7 @@
         <GUIConfig name="URL">2</GUIConfig>
         <GUIConfig name="uriCustomizedSchemes">svn:// cvs:// git:// imap:// irc:// irc6:// ircs:// ldap:// ldaps:// news: telnet:// gopher:// ssh:// sftp:// smb:// skype: snmp:// spotify: steam:// sms: slack:// chrome:// bitcoin:</GUIConfig>
         <GUIConfig name="globalOverride" fg="no" bg="no" font="no" fontSize="no" bold="no" italic="no" underline="no" />
-        <GUIConfig name="auto-completion" autoCAction="0" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
+        <GUIConfig name="auto-completion" autoCAction="0" triggerFromNbChar="1" autoCIgnoreNumbers="yes" insertSelectedItemUseENTER="yes" insertSelectedItemUseTAB="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="yes" brackets="no" curlyBrackets="yes" quotes="yes" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
         <GUIConfig name="workspaceExt"></GUIConfig>
@@ -95,22 +100,28 @@
         <GUIConfig name="wordCharList" useDefault="no" charsAdded="-" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="multiInst" setting="0" />
-        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="0" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" saveDlgExtFilterToAllTypes="no" muteSounds="no" />
+        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="0" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" sortFunctionList="no" saveDlgExtFilterToAllTypes="yes" muteSounds="no" enableFoldCmdToggable="no" />
         <GUIConfig name="Searching" monospacedFontFindDlg="no" stopFillingFindField="no" findDlgAlwaysVisible="no" confirmReplaceInAllOpenDocs="yes" replaceStopsWithoutFindingNext="no" />
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
-        <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="0" customColorDarkText="16777215" customColorDisabledText="8421504" customColorEdge="6579300" />
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="hide" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" rightClickKeepsSelection="yes" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="2" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
-        <GUIConfig name="DockingManager" leftWidth="214" rightWidth="276" topHeight="200" bottomHeight="215">
+        <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="0" customColorDarkText="16777215" customColorDisabledText="8421504" customColorLinkText="65535" customColorEdge="6579300" customColorHotEdge="10197915" />
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="hide" folderMarkStyle="box" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="no" rightClickKeepsSelection="yes" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="2" zoom2="-2" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
+        <GUIConfig name="DockingManager" leftWidth="249" rightWidth="395" topHeight="200" bottomHeight="231">
+            <FloatingWindow cont="4" x="1005" y="487" width="1346" height="625" />
+            <FloatingWindow cont="5" x="730" y="257" width="1222" height="517" />
             <PluginDlg pluginName="3P" id="2" curr="0" prev="-1" isVisible="yes" />
+            <PluginDlg pluginName="NppTaskList.dll" id="15" curr="1" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="3P" id="1" curr="1" prev="-1" isVisible="yes" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="4" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="NppConverter.dll" id="3" curr="5" prev="0" isVisible="no" />
             <PluginDlg pluginName="JSMinNPP.dll" id="0" curr="0" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="0" />
-            <ActiveTabs cont="1" activeTab="0" />
+            <ActiveTabs cont="1" activeTab="1" />
             <ActiveTabs cont="2" activeTab="-1" />
             <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="4" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
 </NotepadPlus>
